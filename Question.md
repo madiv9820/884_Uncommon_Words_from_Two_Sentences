@@ -51,9 +51,7 @@
         <b> Constraint: </b>
         <ul>
             <li>
-                <code style = "font-family: times">
-                    1 <= s1.length, s2.length <= 200
-                </code>
+                <code style = "font-family: times">1 <= s1.length, s2.length <= 200</code>
             </li>
             <li>
                 <code style = "font-family: times">s1</code> and <code style = "font-family: times">s2</code> consist of lowercase English letters and spaces.
